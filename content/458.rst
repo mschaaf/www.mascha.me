@@ -1,0 +1,21 @@
+My camera ready bachelor thesis.
+################################
+:date: 2008-12-15 10:22
+:author: infram
+:category: Misc
+:tags: BachelorArbeit, Programming, tools
+:slug: 458
+:status: published
+
+I ended my thesis on 2008-05-05. The thesis has the title: "Integration
+und Evaluation von Verfahren zur Bestimmung wahrscheinlicher Ursachen
+des Scheiterns von Unit-Tests in Eclipse". It is written in german. But
+there is a paper with the title "Towards Raising the Failure of Unit
+Tests to the Level of Compiler-Reported Errors" (`in the book "Objects,
+Components, Models and
+Patterns" <http://dblp.uni-trier.de/db/conf/tools/tools46-2008.html>`__
+or `for download only the paper as
+pdf <http://www.fernuni-hagen.de/ps/pubs/TOOLS2008b.pdf>`__) which was
+hold in July 2008 on the `Tools Europe 2008 <http://tools.ethz.ch>`__
+conference which is in english and contains some of the material from my
+thesis.

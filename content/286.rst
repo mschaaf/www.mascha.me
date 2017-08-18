@@ -1,0 +1,18 @@
+No title [286]
+##############
+:date: 2008-09-17 18:29
+:author: infram
+:category: Misc
+:tags: linux, Programming
+:slug: 286
+:status: published
+
+| The last burst of checkins has brought Tux3 to the pointer where it
+  undeniably acts like a filesystem: one can write files, go away, come
+  back later and read those files by name. We can see some of the hoped
+  for attractiveness starting to emerge: Tux3 clearly does scale from
+  the very small to the very big at the same time. We have our Exabyte
+  file with 4K blocksize and we can also create 64 Petabyte files using
+  256 byte blocks. How cool is that? Not much chance for internal
+  fragmentation with 256 byte blocks.
+| -- `Daniel Phillips <http://lwn.net/Articles/296568/>`__

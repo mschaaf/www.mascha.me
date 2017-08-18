@@ -1,0 +1,13 @@
+#RF15
+#####
+:date: 2015-07-02 21:19
+:author: infram
+:category: Misc
+:slug: rf15
+:status: published
+
+|image|
+
+.. |image| image:: http://infram.files.wordpress.com/2015/07/wpid-20150702_008.jpg
+   :class: alignnone size-full
+   :target: http://infram.files.wordpress.com/2015/07/wpid-20150702_008.jpg

@@ -1,0 +1,13 @@
+No title [284]
+##############
+:date: 2008-09-17 18:27
+:author: infram
+:category: Misc
+:tags: linux, Programming
+:slug: 284
+:status: published
+
+| "real man" programmers stare at the code in Zen contemplation and
+  debug by powercycling - thats one thing even hard RT processes can't
+  beat.
+| `Alan Cox <http://lwn.net/Articles/296567/>`__
