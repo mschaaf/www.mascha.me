@@ -6,19 +6,11 @@ No title [1590]
 :slug: 1590
 :status: published
 
-    .. raw:: html
-
-       <div class="BigQuote">
-
-    Answering a user question on IRC doesn’t scale, only one person and
-    a few lurkers will benefit from it. Answering a user question on a
-    mailing list scales a little better, since the answer is archived
-    and can be searched for. What really scales is instead to improve
-    the reference manual. Yes, you know, documentation.
-
-    .. raw:: html
-
-       </div>
+> Answering a user question on IRC doesn’t scale, only one person and
+> a few lurkers will benefit from it. Answering a user question on a
+> mailing list scales a little better, since the answer is archived
+> and can be searched for. What really scales is instead to improve
+> the reference manual. Yes, you know, documentation.
 
 — `Sébastien
 Wilmet <https://blogs.gnome.org/swilmet/2016/04/23/doing-things-that-scale/>`__

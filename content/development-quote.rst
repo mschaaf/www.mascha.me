@@ -6,8 +6,8 @@ Development quote
 :slug: development-quote
 :status: published
 
-    It occurs to me that the subtitle of PEP 493 could be "All software
-    is terrible, but it's often a system administrator's job to make it
-    run anyway" :)
+> It occurs to me that the subtitle of PEP 493 could be "All software
+> is terrible, but it's often a system administrator's job to make it
+> run anyway" :)
 
 — `Nick Coghlan <https://lwn.net/Articles/644002/>`__

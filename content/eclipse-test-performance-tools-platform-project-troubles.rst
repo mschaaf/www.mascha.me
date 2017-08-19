@@ -83,8 +83,7 @@ lines of java code are necessary.
         }
     }
 
-**EventCatcherThread.java
-**
+**EventCatcherThread.java**
 
 ::
 

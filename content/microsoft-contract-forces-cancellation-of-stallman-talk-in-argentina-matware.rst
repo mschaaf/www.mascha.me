@@ -1,10 +1,10 @@
-Censuraron la charla de Richard Stallman en la UTN de Mar del Plata - Matware -- Microsoft contract forces cancellation of Stallman talk in Argentina (Matware)
-###############################################################################################################################################################
+Microsoft contract forces cancellation of Stallman talk in Argentina (Matware)
+##############################################################################
 :date: 2009-09-03 16:41
 :author: infram
 :category: Misc
 :tags: microsoft, richard stallman
-:slug: censuraron-la-charla-de-richard-stallman-en-la-utn-de-mar-del-plata
+:slug: microsoft-contract-forces-cancellation-of-stallman-talk-in-argentina-matware
 :status: published
 
 `Censuraron la charla de Richard Stallman en la UTN de Mar del Plata -

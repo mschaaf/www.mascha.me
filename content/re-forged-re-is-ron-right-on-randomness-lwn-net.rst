@@ -6,8 +6,8 @@ Re: [FORGED] Re: Is Ron right on randomness [LWN.net]
 :slug: re-forged-re-is-ron-right-on-randomness-lwn-net
 :status: published
 
-    One of the lesser-mentioned software freedoms is, unfortunately, the
-    freedom to make a complete mess.
+One of the lesser-mentioned software freedoms is, unfortunately, the
+freedom to make a complete mess.
 
 Quelle: `Re: [FORGED] Re: Is Ron right on randomness
 [LWN.net] <https://lwn.net/Articles/707903/>`__

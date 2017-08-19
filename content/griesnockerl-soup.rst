@@ -1,4 +1,4 @@
-- griesnockerl soup
+griesnockerl soup
 ###################
 :date: 2008-03-14 21:38
 :author: infram
