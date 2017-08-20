@@ -1,0 +1,40 @@
+    <aside class="page-sidebar">
+      <nav class="widget">
+      <h3>Site</h3>
+        <ul>
+          <li><a href="{{ SITEURL }}">Accueil</a></li>
+          <li><a href="{{ SITEURL }}/archives.html">Archives</a></li>
+          <li><a href="{{ SITEURL }}/tags.html">Mots-clés</a></li>
+       {% if MENUITEMS %}
+          {% for name, uri in MENUITEMS %}
+          <li><a href="{{ uri|format(SITEURL)|e}}">{{ name }}</a></li>
+          {% endfor %}
+        {% endif %}
+       {% if DISPLAY_PAGES_ON_MENU %}
+          {% for p in PAGES %}
+          <li><a href="{{ SITEURL}}/{{ p.url|e }}"{% if p == page %} class="active"{% endif %}>{{ p.title }}</a></li>
+          {% endfor %}
+        {% endif %}
+        </ul>
+      </nav>
+
+      {# by moving piece of three code lines, you can move up, down or remove each widget #}
+      
+     {% if categories %}
+     {% include "sidebar.d/categories.html" %}
+     {% endif %}
+
+     {% if SOCIAL %}
+     {% include "sidebar.d/social.html" %}
+     {% endif %}
+      
+      {% if LANGUAGES %}
+      {% include "sidebar.d/lang.html" %}
+      {% endif %}
+      
+      {% if LINKS %}
+      {% include "sidebar.d/links.html" %} 
+      {% endif %}
+      
+      {% include "sidebar.d/tag_cloud.html" %} 
+    </aside>

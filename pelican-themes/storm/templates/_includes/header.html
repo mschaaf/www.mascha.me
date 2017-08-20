@@ -1,0 +1,12 @@
+<div id="header-wrapper">
+  <div class="logo"><a href="{{ SITEURL }}">{{ SITENAME }}</a></div>
+  <div class="small">{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</div>
+    <div class="nav">
+      {% include '_includes/pages.html' %}
+    </div>
+    {% if SOCIAL %}
+    <div class="nav social">
+      {% include '_includes/social.html' %}
+    </div>
+    {% endif %}
+</div>

@@ -1,0 +1,5 @@
+{% if DISPLAY_PAGES_ON_MENU %}
+{% for title, link in MENUITEMS %}
+  <li><a href="{{ SITEURL }}/{{ link }}">{{ title }}</a></li>
+{% endfor %}
+{% endif %}

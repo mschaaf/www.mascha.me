@@ -1,0 +1,8 @@
+<nav class="widget">
+   <h3>Languages</h3>
+   <ul>
+      {% for code,name,url in LANGUAGES %}
+          <li><a href="{{ SITEURL }}/{{ url }}" rel="alternate">{{ name }}</a></li>
+      {% endfor %}
+   </ul>   
+</nav>

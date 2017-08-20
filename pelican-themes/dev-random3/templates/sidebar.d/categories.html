@@ -1,0 +1,8 @@
+<nav class="widget">
+        <h3>Catégories</h3>
+        <ul>
+        {% for cat, null in categories %}
+          <li><a href="{{ SITEURL }}/{{ cat.url|e }}">{{ cat }}</a></li>
+        {% endfor %}
+        </ul>
+</nav>

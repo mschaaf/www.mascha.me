@@ -1,0 +1,8 @@
+<nav class="widget">
+    <h3>Links</h3>
+    <ul>
+        {% for url, name in LINKS %}
+          <li><a href="{{ url|e }}">{{ name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
