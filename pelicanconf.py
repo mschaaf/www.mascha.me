@@ -80,6 +80,6 @@ PERSONAL_INFO = 'dfsfs dfds fd dg dg'
 
 WORK_DESCRIPTION = 'dfdfg df dg dg'
 WORK_LIST = (
-    ('link', 'https://dl.dropboxusercontent.com/u/299446/BT3-Flat.png', 'BT3-Flat', 'A BT3 flat theme for pelican', 'https://github.com/KenMercusLai/plumage')
+    ('link', 'https://dl.dropboxusercontent.com/u/299446/BT3-Flat.png', 'BT3-Flat', 'A BT3 flat theme for pelican', 'https://github.com/KenMercusLai/plumage'),
 )
 
