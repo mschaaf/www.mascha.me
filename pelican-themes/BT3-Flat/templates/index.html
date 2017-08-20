@@ -1,0 +1,7 @@
+{# If the user has opted into displaying thier articles as their homepage. #}
+{% if ARTICLES_HOME_PAGE %}
+    {% include "blog.html" %}
+{# Otherwise, use the template default #}
+{% else %}
+    {% include "about.html" %}
+{% endif %}
