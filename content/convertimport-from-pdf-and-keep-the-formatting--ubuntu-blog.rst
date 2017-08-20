@@ -4,7 +4,7 @@ Convert/Import from PDF and Keep the Formatting « Ubuntu Blog
 :author: infram
 :category: Misc
 :tags: convert, import, kword, pdf, pdf convert, pdf import
-:slug: convertimport-from-pdf-and-keep-the-formatting-%c2%ab-ubuntu-blog
+:slug: convertimport-from-pdf-and-keep-the-formatting-ubuntu-blog
 :status: published
 
 `Convert/Import from PDF and Keep the Formatting « Ubuntu
