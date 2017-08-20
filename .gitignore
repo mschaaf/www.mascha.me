@@ -3,3 +3,4 @@ output/
 *.swp
 pelican.pid
 srv.pid
+.jsx.tags

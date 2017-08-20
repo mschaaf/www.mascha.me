@@ -54,11 +54,9 @@ SITEMAP = {
 }
 
 DEFAULT_PAGINATION = 25
-PAGINATED_DIRECT_TEMPLATES = ('blog-index',)
-DIRECT_TEMPLATES = ('tag', 'index', 'blog-index', 'blog')
-TEMPLATE_PAGES = {'blog.html': 'blog.html'}
-
-POST_LIMIT = 25
+PAGINATED_DIRECT_TEMPLATES = ('blog',)
+DIRECT_TEMPLATES = ('index', 'blog',)
+#TEMPLATE_PAGES = {'blog.html': 'blog.html'}
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -81,5 +79,6 @@ PERSONAL_INFO = 'dfsfs dfds fd dg dg'
 WORK_DESCRIPTION = 'dfdfg df dg dg'
 WORK_LIST = (
     ('link', 'https://dl.dropboxusercontent.com/u/299446/BT3-Flat.png', 'BT3-Flat', 'A BT3 flat theme for pelican', 'https://github.com/KenMercusLai/plumage'),
+    ('link', '', 'All', '', 'pages/index.html'),
 )
 

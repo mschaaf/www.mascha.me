@@ -1,6 +1,6 @@
 // image auto-resize process
 $(document).ready(function () {
-  ImageAutoResize();
+  //  ImageAutoResize();
 });
 
 
