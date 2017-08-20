@@ -3,7 +3,7 @@ The Sietch Blog » How To Ride Your Bike To Work
 :date: 2008-02-19 15:39
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-how-to-ride-your-bike-to-work
+:slug: the-sietch-blog-how-to-ride-your-bike-to-work
 :status: published
 
 `The Sietch Blog » How To Ride Your Bike To
