@@ -3,7 +3,7 @@ law blog» Archiv » Kontrollunterzeichner
 :date: 2008-11-21 08:18
 :author: infram
 :category: Misc
-:slug: law-blog%c2%bb-archiv-%c2%bb-kontrollunterzeichner
+:slug: law-blog-archiv-kontrollunterzeichner
 :status: published
 
 `law blog» Archiv »

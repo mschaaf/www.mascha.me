@@ -4,7 +4,7 @@ law blog» Archiv » Mikado: Kreditkartenscreening ist erlaubt
 :author: infram
 :category: Misc
 :tags: kreditkarte, screening, security
-:slug: law-blog%c2%bb-archiv-%c2%bb-mikado-kreditkartenscreening-ist-erlaubt
+:slug: law-blog-archiv-mikado-kreditkartenscreening-ist-erlaubt
 :status: published
 
 `law blog» Archiv » Mikado: Kreditkartenscreening ist

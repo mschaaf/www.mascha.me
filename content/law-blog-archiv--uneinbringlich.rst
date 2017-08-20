@@ -4,7 +4,7 @@ law blog» Archiv » “Uneinbringlich”
 :author: infram
 :category: Misc
 :tags: schufa, uneinbringlich
-:slug: law-blog%c2%bb-archiv-%c2%bb-%e2%80%9cuneinbringlich%e2%80%9d
+:slug: law-blog-archiv-uneinbringlich
 :status: published
 
 `law blog» Archiv »

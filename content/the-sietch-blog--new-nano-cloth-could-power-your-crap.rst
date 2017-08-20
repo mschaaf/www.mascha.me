@@ -3,7 +3,7 @@ The Sietch Blog » New Nano-Cloth Could Power Your Crap
 :date: 2008-02-17 01:24
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-new-nano-cloth-could-power-your-crap
+:slug: the-sietch-blog-new-nano-cloth-could-power-your-crap
 :status: published
 
 `The Sietch Blog » New Nano-Cloth Could Power Your

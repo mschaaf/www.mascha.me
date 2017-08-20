@@ -3,7 +3,7 @@ law blog» Archiv » Verschlüsseln macht verdächtig
 :date: 2009-02-24 21:29
 :author: infram
 :category: Misc
-:slug: law-blog%c2%bb-archiv-%c2%bb-verschlusseln-macht-verdachtig
+:slug: law-blog-archiv-verschlusseln-macht-verdachtig
 :status: published
 
 `law blog» Archiv » Verschlüsseln macht

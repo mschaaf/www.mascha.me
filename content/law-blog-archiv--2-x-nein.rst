@@ -4,7 +4,7 @@ law blog» Archiv » 2 x nein
 :author: infram
 :category: Misc
 :tags: pgp, recht, verschlüsselung
-:slug: law-blog%c2%bb-archiv-%c2%bb-2-x-nein
+:slug: law-blog-archiv-2-x-nein
 :status: published
 
 `law blog» Archiv » 2 x

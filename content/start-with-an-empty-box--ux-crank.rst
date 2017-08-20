@@ -4,7 +4,7 @@ Start With an Empty Box « UX Crank
 :author: infram
 :category: Misc
 :tags: presentation
-:slug: start-with-an-empty-box-%c2%ab-ux-crank
+:slug: start-with-an-empty-box-ux-crank
 :status: published
 
 `Start With an Empty Box « UX

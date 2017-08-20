@@ -4,7 +4,7 @@ law blog» Archiv » Versammlungsverhinderungsgesetz
 :author: infram
 :category: Misc
 :tags: bayern, bundesverfassungsgericht, Versammlungsverhinderungsgesetz
-:slug: law-blog%c2%bb-archiv-%c2%bb-versammlungsverhinderungsgesetz
+:slug: law-blog-archiv-versammlungsverhinderungsgesetz
 :status: published
 
 `law blog» Archiv »

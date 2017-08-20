@@ -3,7 +3,7 @@ Numlock Door Handle by Jaeseok Han » Yanko Design
 :date: 2009-06-07 12:02
 :author: infram
 :category: Misc
-:slug: numlock-door-handle-by-jaeseok-han-%c2%bb-yanko-design
+:slug: numlock-door-handle-by-jaeseok-han-yanko-design
 :status: published
 
 `Numlock Door Handle by Jaeseok Han » Yanko

@@ -3,7 +3,7 @@ The Sietch Blog » Using The Sun To Melt Steel
 :date: 2008-10-26 11:04
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-using-the-sun-to-melt-steel
+:slug: the-sietch-blog-using-the-sun-to-melt-steel
 :status: published
 
 `The Sietch Blog » Using The Sun To Melt

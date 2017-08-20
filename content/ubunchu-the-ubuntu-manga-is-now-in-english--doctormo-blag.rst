@@ -4,7 +4,7 @@ Ubunchu The Ubuntu Manga is now in English « DoctorMO’s Blag
 :author: infram
 :category: Misc
 :tags: manga, ubuntu
-:slug: ubunchu-the-ubuntu-manga-is-now-in-english-%c2%ab-doctormo%e2%80%99s-blag
+:slug: ubunchu-the-ubuntu-manga-is-now-in-english-doctormos-blag
 :status: published
 
 `Ubunchu The Ubuntu Manga is now in English « DoctorMO’s

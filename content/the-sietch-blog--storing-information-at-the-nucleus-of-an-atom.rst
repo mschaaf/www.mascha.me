@@ -3,7 +3,7 @@ The Sietch Blog » Storing Information At The Nucleus Of An Atom
 :date: 2008-10-26 11:02
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-storing-information-at-the-nucleus-of-an-atom
+:slug: the-sietch-blog-storing-information-at-the-nucleus-of-an-atom
 :status: published
 
 `The Sietch Blog » Storing Information At The Nucleus Of An

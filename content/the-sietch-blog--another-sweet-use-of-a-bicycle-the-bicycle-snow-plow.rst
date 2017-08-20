@@ -4,7 +4,7 @@ The Sietch Blog » Another Sweet Use Of A Bicycle: The Bicycle Snow Plow
 :author: infram
 :category: Misc
 :tags: bicycle, snow, snow plow
-:slug: the-sietch-blog-%c2%bb-another-sweet-use-of-a-bicycle-the-bicycle-snow-plow
+:slug: the-sietch-blog--another-sweet-use-of-a-bicycle-the-bicycle-snow-plow
 :status: published
 
 `The Sietch Blog » Another Sweet Use Of A Bicycle: The Bicycle Snow

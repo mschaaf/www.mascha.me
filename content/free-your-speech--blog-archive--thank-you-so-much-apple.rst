@@ -4,7 +4,7 @@ Free your Speech » Blog Archive » Thank you so much Apple
 :author: infram
 :category: Misc
 :tags: apple, firmware
-:slug: free-your-speech-%c2%bb-blog-archive-%c2%bb-thank-you-so-much-apple
+:slug: free-your-speech-blog-archive-thank-you-so-much-apple
 :status: published
 
 `Free your Speech » Blog Archive » Thank you so much

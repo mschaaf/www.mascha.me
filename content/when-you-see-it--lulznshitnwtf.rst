@@ -3,7 +3,7 @@ When you see it … « /lulz/n/shit/n/wtf
 :date: 2008-04-16 07:00
 :author: infram
 :category: Misc
-:slug: when-you-see-it-%e2%80%a6-%c2%ab-lulznshitnwtf
+:slug: when-you-see-it-lulznshitnwtf
 :status: published
 
 `When you see it … «

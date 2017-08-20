@@ -4,7 +4,7 @@ Use I Wants « UX Crank
 :author: infram
 :category: Misc
 :tags: Programming
-:slug: use-i-wants-%c2%ab-ux-crank
+:slug: use-i-wants-ux-crank
 :status: published
 
 `Use I Wants « UX Crank <http://dswillis.com/uxcrank/?p=201>`__

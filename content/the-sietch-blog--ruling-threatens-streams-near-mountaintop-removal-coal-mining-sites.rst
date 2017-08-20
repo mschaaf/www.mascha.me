@@ -3,7 +3,7 @@ The Sietch Blog » Ruling Threatens Streams Near Mountaintop Removal Coal Mining
 :date: 2008-10-26 09:03
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-ruling-threatens-streams-near-mountaintop-removal-coal-mining-sites
+:slug: the-sietch-blog-ruling-threatens-streams-near-mountaintop-removal-coal-mining-sites
 :status: published
 
 `The Sietch Blog » Ruling Threatens Streams Near Mountaintop Removal

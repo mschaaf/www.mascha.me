@@ -4,7 +4,7 @@ ioannis cherouvim » Blog Archive » Singleton ehcache CacheManager warning fix
 :author: infram
 :category: Misc
 :tags: detectAndFixDiskStorePathConflict, ehcache, hibernate, Programming
-:slug: ioannis-cherouvim-%c2%bb-blog-archive-%c2%bb-singleton-ehcache-cachemanager-warning-fix
+:slug: ioannis-cherouvim-blog-archive-singleton-ehcache-cachemanager-warning-fix
 :status: published
 
 `ioannis cherouvim » Blog Archive » Singleton ehcache CacheManager

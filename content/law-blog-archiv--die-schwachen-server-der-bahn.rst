@@ -4,7 +4,7 @@ law blog» Archiv » Die schwachen Server der Bahn
 :author: infram
 :category: Misc
 :tags: Fernmeldegeheimnis
-:slug: law-blog%c2%bb-archiv-%c2%bb-die-schwachen-server-der-bahn
+:slug: law-blog-archiv--die-schwachen-server-der-bahn
 :status: published
 
 `law blog» Archiv » Die schwachen Server der

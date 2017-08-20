@@ -4,7 +4,7 @@ Design is a Side Effect « UX Crank
 :author: infram
 :category: Misc
 :tags: design, side effect
-:slug: design-is-a-side-effect-%c2%ab-ux-crank
+:slug: design-is-a-side-effect-ux-crank
 :status: published
 
 `Design is a Side Effect « UX

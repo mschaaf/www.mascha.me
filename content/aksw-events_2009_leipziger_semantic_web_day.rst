@@ -3,7 +3,7 @@ AKSW : Events / 2009 / Leipziger Semantic Web Day
 :date: 2009-02-06 15:12
 :author: infram
 :category: Misc
-:slug: aksw-events%c2%a0%c2%a02009%c2%a0%c2%a0leipziger%c2%a0semantic%c2%a0web%c2%a0day
+:slug: aksw-events-leipziger-semantic-web-day
 :status: published
 
 `AKSW :

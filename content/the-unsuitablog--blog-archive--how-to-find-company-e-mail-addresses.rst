@@ -3,7 +3,7 @@ The Unsuitablog » Blog Archive » How To Find Company E-mail Addresses
 :date: 2008-02-26 18:09
 :author: infram
 :category: Misc
-:slug: the-unsuitablog-%c2%bb-blog-archive-%c2%bb-how-to-find-company-e-mail-addresses
+:slug: the-unsuitablog-blog-archive-how-to-find-company-e-mail-addresses
 :status: published
 
 `The Unsuitablog » Blog Archive » How To Find Company E-mail

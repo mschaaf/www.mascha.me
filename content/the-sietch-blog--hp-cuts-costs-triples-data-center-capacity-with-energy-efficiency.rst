@@ -3,7 +3,7 @@ The Sietch Blog » HP Cuts Costs, Triples Data Center Capacity With Energy-effic
 :date: 2008-11-06 13:29
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-hp-cuts-costs-triples-data-center-capacity-with-energy-efficiency
+:slug: the-sietch-blog-hp-cuts-costs-triples-data-center-capacity-with-energy-efficiency
 :status: published
 
 `The Sietch Blog » HP Cuts Costs, Triples Data Center Capacity With

@@ -3,7 +3,7 @@ Daten-Speicherung.de – minimum data, maximum privacy » Auskunft über vorrats
 :date: 2009-04-11 12:23
 :author: infram
 :category: Misc
-:slug: daten-speicherungde-%e2%80%93-minimum-data-maximum-privacy-%c2%bb-auskunft-uber-vorratsgespeicherte-kommunikationsdaten-erganzt
+:slug: daten-speicherungde-minimum-data-maximum-privacy-auskunft-uber-vorratsgespeicherte-kommunikationsdaten-erganzt
 :status: published
 
 `Daten-Speicherung.de – minimum data, maximum privacy » Auskunft über

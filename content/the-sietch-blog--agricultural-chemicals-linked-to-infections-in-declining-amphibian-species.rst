@@ -3,7 +3,7 @@ The Sietch Blog » Agricultural Chemicals Linked To Infections In Declining Amph
 :date: 2008-11-06 15:15
 :author: infram
 :category: Misc
-:slug: the-sietch-blog-%c2%bb-agricultural-chemicals-linked-to-infections-in-declining-amphibian-species
+:slug: the-sietch-blog-agricultural-chemicals-linked-to-infections-in-declining-amphibian-species
 :status: published
 
 `The Sietch Blog » Agricultural Chemicals Linked To Infections In

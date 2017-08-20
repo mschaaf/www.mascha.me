@@ -4,7 +4,7 @@ The Sietch Blog » Heathrow Airport Chaos : Good
 :author: infram
 :category: Misc
 :tags: co2 emisson, flight
-:slug: the-sietch-blog-%c2%bb-heathrow-airport-chaos-good
+:slug: the-sietch-blog-heathrow-airport-chaos-good
 :status: published
 
 `The Sietch Blog » Heathrow Airport Chaos :

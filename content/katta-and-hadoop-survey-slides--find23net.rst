@@ -4,7 +4,7 @@ katta and hadoop survey slides « find23.net
 :author: infram
 :category: Misc
 :tags: hadoop, index, katta, lucene, Programming, search
-:slug: katta-and-hadoop-survey-slides-%c2%ab-find23net
+:slug: katta-and-hadoop-survey-slides-find23net
 :status: published
 
 via `katta and hadoop survey slides «

@@ -4,7 +4,7 @@ law blog» Archiv » Medialer Effekt
 :author: infram
 :category: Misc
 :tags: medialer effekt, Straftaten wie sexueller Missbrauch von Kindern
-:slug: law-blog%c2%bb-archiv-%c2%bb-medialer-effekt
+:slug: law-blog-archiv-medialer-effekt
 :status: published
 
 `law blog» Archiv » Medialer

@@ -3,7 +3,7 @@ Juixe TechKnow » Favorite Programming Quotes
 :date: 2008-09-08 07:06
 :author: infram
 :category: Misc
-:slug: juixe-techknow-%c2%bb-favorite-programming-quotes
+:slug: juixe-techknow-favorite-programming-quotes
 :status: published
 
 `Juixe TechKnow » Favorite Programming
