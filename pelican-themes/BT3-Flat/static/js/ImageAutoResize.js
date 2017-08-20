@@ -29,15 +29,14 @@ function ImageAutoResize() {
 
   $("section#blog img").each(function () {
     // resize imgs to fit window and container, and also put them center
-    var PhotoProportaion = $(this).width() / $(this).height();
+    var PhotoProportion = $(this).width() / $(this).height();
     var TargetWidth;
-    if (PhotoProportaion < ContainerProportion) {
-      TargetWidth = containter_height*PhotoProportaion*0.8;
+    if (PhotoProportion < ContainerProportion) {
+      TargetWidth = containter_height*PhotoProportion*0.8;
     }
     else {
       TargetWidth = containter_width;
     }
-    console.log(TargetWidth);
     if (this.width > TargetWidth) {
       if ($(this).parents('a').length === 0) {
         $(this).wrap(
@@ -45,7 +44,8 @@ function ImageAutoResize() {
         );
       }
 
-      $(this).css('max-width', TargetWidth)
+      $(this).css('width', TargetWidth)
+        .css('height', '')
         .css('display', 'block')
         .css('margin', '0 auto');
 
