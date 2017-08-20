@@ -3,7 +3,7 @@ Just What-the-Heck is a "wait-free" algorithm? - Azul Systems - Cliff Click Jr.â
 :date: 2008-11-24 15:11
 :author: infram
 :category: Misc
-:slug: azul-systems-cliff-click-jr%e2%80%99s-blog
+:slug: azul-systems-cliff-click-jrs-blog
 :status: published
 
 `Just What-the-Heck is a "wait-free"

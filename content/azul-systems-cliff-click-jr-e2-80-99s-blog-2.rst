@@ -4,7 +4,7 @@ Death by Decompilation - Azul Systems - Cliff Click Jr.’s Blog
 :author: infram
 :category: Misc
 :tags: decompilation, java, Programming
-:slug: azul-systems-cliff-click-jr%e2%80%99s-blog-2
+:slug: azul-systems-cliff-click-jrs-blog-2
 :status: published
 
 `Death by

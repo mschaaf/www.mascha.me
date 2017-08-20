@@ -4,7 +4,7 @@ Hadoop Map-Reduce – Tuning and Debugging
 :author: infram
 :category: Misc
 :tags: debugging, hadoop, map-reduce, Programming, tuning
-:slug: hadoop-map-reduce-%e2%80%93-tuning-and-debugging
+:slug: hadoop-map-reduce-tuning-and-debugging
 :status: published
 
 Some slides about `tuning and debugging hadoop

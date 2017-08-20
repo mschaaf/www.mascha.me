@@ -4,7 +4,7 @@ Java vs C performance... again... - Azul Systems - Cliff Click Jr.’s Blog
 :author: infram
 :category: Misc
 :tags: c, java, Java vs C performance, performance
-:slug: java-vs-c-performance-again-azul-systems-cliff-click-jr-%e2%80%99s-blog
+:slug: java-vs-c-performance-again-azul-systems-cliff-click-jrs-blog
 :status: published
 
 `Java vs C performance... again... - Azul Systems - Cliff Click Jr.’s

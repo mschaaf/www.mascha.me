@@ -4,7 +4,7 @@ WELT DEBATTE - Weblogs - Sex, Macht und Politik - Mainstream Report von Bettina 
 :author: infram
 :category: Misc
 :tags: gm, magna, magna-falle, merkel, opel
-:slug: welt-debatte-weblogs-sex-macht-und-politik-mainstream-report-von-bettina-rohl-opel-%e2%80%93-merkel-in-der-magna-falle
+:slug: welt-debatte-weblogs-sex-macht-und-politik-mainstream-report-von-bettina-rohl-opel-merkel-in-der-magna-falle
 :status: published
 
 `WELT DEBATTE - Weblogs - Sex, Macht und Politik - Mainstream Report von

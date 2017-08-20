@@ -3,7 +3,7 @@
 :date: 2010-06-23 11:20
 :author: infram
 :category: Misc
-:slug: %e5%86%85%e5%90%91%e7%ba%b9%e8%ba%ab-auf-flickr-fotosharing
+:slug: im-not-sure-about-the-title-auf-flickr-fotosharing
 :status: published
 
 |image0|

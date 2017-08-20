@@ -4,7 +4,7 @@ Case-insensitive mapping with mod_rewrite’s RewriteMap - Be the signal
 :author: infram
 :category: Misc
 :tags: apache httpd, Programming, url rewrite
-:slug: case-insensitive-mapping-with-mod_rewrite%e2%80%99s-rewritemap-be-the-signal
+:slug: case-insensitive-mapping-with-mod_rewrites-rewritemap-be-the-signal
 :status: published
 
 `Case-insensitive mapping with mod\_rewrite’s RewriteMap - Be the

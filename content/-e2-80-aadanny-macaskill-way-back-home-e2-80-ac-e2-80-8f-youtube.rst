@@ -3,7 +3,7 @@
 :date: 2011-08-02 20:44
 :author: infram
 :category: Misc
-:slug: %e2%80%aadanny-macaskill-way-back-home%e2%80%ac%e2%80%8f-youtube
+:slug: danny-macaskill-way-back-home-youtube
 :status: published
 
 [youtube
