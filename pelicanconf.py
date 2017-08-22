@@ -29,6 +29,18 @@ ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{slug}/index.html"
 # Blogroll
 LINKS = (
     ('Dica-Developer', 'https://github.com/Dica-Developer'),
+    ("Don Brown's Weblog", 'http://jroller.com/mrdon/'),
+    ("doobop’s soup", 'http://doobop.soup.io/'),
+    ('eighty-eight myles per hour', 'https://bethesignal.org/'),
+    ('M A M B L O G', 'http://mam-foto.blogspot.com/'),
+    ("Marcus-Andreas Mohr’s Blog", 'http://marcusandreasmohr.wordpress.com/'),
+    ('0xmb', 'http://mbauhardt.github.io/'),
+    ('SuzieSoup', 'http://suzie.soup.io/'),
+    ("oae's Blog", 'https://oae9.wordpress.com/'),
+    ('Schneier on Security', 'http://www.schneier.com/blog/'),
+    ('The Sietch Blog', 'http://www.blog.thesietch.org/'),
+    ('Tom Yam', 'http://robert.soup.io/'),
+    ('UX Crank', 'http://www.dswillis.com/uxcrank/'),
 )
 
 # Social widget
@@ -75,7 +87,7 @@ ARTICLES_HOME_PAGE = False
 PERSONAL_PHOTO = 'https://avatars2.githubusercontent.com/u/703355?v=4&s=400'
 PERSONAL_INFO = 'child and developer'
 
-WORK_DESCRIPTION = ''
+WORK_DESCRIPTION = 'developed'
 WORK_LIST = (
     ('link', '', 'All', '', 'pages/index.html'),
 )
