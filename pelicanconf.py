@@ -59,10 +59,9 @@ DIRECT_TEMPLATES = ('index', 'blog',)
 #TEMPLATE_PAGES = {'blog.html': 'blog.html'}
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 THEME = 'pelican-themes/BT3-Flat'
-#THEME = 'pelican-themes/chunk'
 
 #===theme settings===========================
 FAVICON = ''
@@ -74,9 +73,9 @@ BACKGROUND_IMAGE = 'images/background.jpg'
 ARTICLES_HOME_PAGE = False
 
 PERSONAL_PHOTO = 'https://avatars2.githubusercontent.com/u/703355?v=4&s=400'
-PERSONAL_INFO = 'dfsfs dfds fd dg dg'
+PERSONAL_INFO = 'child and developer'
 
-WORK_DESCRIPTION = 'dfdfg df dg dg'
+WORK_DESCRIPTION = ''
 WORK_LIST = (
     ('link', '', 'All', '', 'pages/index.html'),
 )

@@ -48,25 +48,6 @@ function ImageAutoResize() {
         .css('height', '')
         .css('display', 'block')
         .css('margin', '0 auto');
-
-      // Add a special class for images linking to videos
-      // var link_tag = $(this).closest('a');
-      // link_tag.magnificPopup({
-      //   type: 'image',
-      //   closeOnContentClick: true,
-      //   midClick: true,
-      //   mainClass: 'mfp-with-zoom',
-      //   zoom: {
-      //     enabled: true,
-      //     duration: 300,
-      //     easing: 'ease-in-out',
-      //   },
-      // });
-
-      
-
-      // // Add overlay zoom icon
-      // $(this).mglass({opacity: 1,});
     }
   });
 }

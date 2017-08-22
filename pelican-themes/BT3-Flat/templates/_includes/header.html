@@ -5,22 +5,14 @@
     <meta charset="utf-8" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <title>{{ SITENAME }} - {{ SITESUBTITLE }}</title>
-    <meta name="description" content="" />
-    <meta name="Author" content="Ken M. Lai(networktsukkomime.me)" />
-
-    <!--[if lt IE 9]>
-    <script type="text/javascript" src="http://stepofweb.gweb.io/.templates/IsisOne/HTML/assets/plugins/lt-ie9/html5.js"></script>
-    <script type="text/javascript" src="http://stepofweb.gweb.io/.templates/IsisOne/HTML/assets/plugins/lt-ie9/respond.min.js"></script>
-    <script type="text/javascript" src="http://stepofweb.gweb.io/.templates/IsisOne/HTML/assets/plugins/lt-ie9/excanvas.compiled.js"></script>
-    <![endif]-->
 
     <!-- GOOGLE FONTS -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Dosis:300,400" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 
 
     <!-- CORE CSS FRAMEWORK -->
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="theme/css/bootstrap.3.1.1.min.css" rel="stylesheet" type="text/css" />
+    <link href="theme/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- CSS TEMPLATE -->
     <link href="{{SITEURL}}/theme/css/reset.css" rel="stylesheet" type="text/css" />
@@ -43,14 +35,4 @@
 
     <!-- mobile settings -->
     <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
-
-    <!-- Morenizr -->
-    <script type="text/javascript" src="{{SITEURL}}/theme/js/modernizr.min.js"></script>
-
-    <!-- google authorship -->
-    {% for title, link in SOCIAL%}
-        {% if 'plus.google.com' in link %}
-            <a href="{{link}}?rel=author"></a>
-        {% endif %}
-    {% endfor%}
 </head>

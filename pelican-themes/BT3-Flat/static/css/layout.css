@@ -223,9 +223,9 @@ section.alternate.arrow-down {
   border: 0;
 }
 #home .image-caption h1, #home .image-caption h2 {
-  font-family:'Open Sans', sans-serif;
+  font-family:'Ubuntu', sans-serif;
   font-weight:800;
-  font-size:600%;
+  font-size:200%;
   line-height:95%;
   text-transform:uppercase;
   text-shadow:none;
@@ -362,7 +362,7 @@ footer a.toTop {
   text-align:center;
 }
 #portfolio .isotope-item .caption h3 {
-  font-family:'Open Sans';
+  font-family:'Ubuntu';
   font-size:14px;
   line-height:14px;
   font-weight:700;
